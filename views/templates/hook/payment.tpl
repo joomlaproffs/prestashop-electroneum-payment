@@ -49,6 +49,9 @@
 
 			<div id="paymentqr_div">
 				<div class="uk-form-row">
+                    <p style="text-align:center">
+                      <img src="https://timg.electroneum.com/Pixel_Tracker?platform=etn" />
+                    </p>
                     <p class='uk-text-primary uk-text-large uk-text-bold'>Payment for {$etnvalue} ETN to outlet</p>
                     
                     <div class="uk-text-center uk-margin-bottom" style="background-color: rgb(255, 255, 255); margin:0 auto; padding-bottom: 5px; border-color: rgb(255, 255, 255); border-style: solid; border-width: 12px 12px 6px; border-image: none 100% / 1 / 0 stretch; border-radius: 8px; box-shadow: rgba(50, 50, 50, 0.2) 0px 2px 8px 0px; width: 240px; text-decoration: none; color: rgb(51, 51, 51); text-align: center; cursor: pointer;">
