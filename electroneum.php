@@ -48,7 +48,7 @@ class Electroneum extends PaymentModule
     {
         $this->name = 'electroneum';
         $this->tab = 'payments_gateways';
-        $this->version = '1.0.1';
+        $this->version = '1.0.2';
         $this->author = 'JoomlaPro.com';
         $this->is_eu_compatible = 1;
         $this->controllers = array('payment', 'redirect', 'callback', 'cancel');
